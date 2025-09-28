@@ -34,4 +34,5 @@ module.exports = {
         error: '#ED4245',      // Red (used for errors)
         neutral: '#5D5D5D'     // Gray (used for neutral messages)
     }
+
 };
